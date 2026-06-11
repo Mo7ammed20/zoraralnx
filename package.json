@@ -58,7 +58,7 @@
     "@types/bcryptjs": "^2.4.6",
     "@types/geoip-lite": "^1.4.4",
     "@types/node": "^22.9.3",
-    "@types/nodemailer": "^6.4.17",
+    "@types/nodemailer": "^7.0.13",
     "@types/qrcode": "^1.5.5",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
